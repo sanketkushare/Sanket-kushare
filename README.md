@@ -17,7 +17,7 @@
 
 <p align="center">
 
-  <a href="https://https://github.com/sanketkushare"><img src="https://komarev.com/ghpvc/?username=saurabhlo&label=Profile%20views&color=0e75b6&style=flat" alt="saurabhlo" /></a>
+  <a href="https://github.com/sanketkushare"><img src="https://komarev.com/ghpvc/?username=saurabhlo&label=Profile%20views&color=0e75b6&style=flat" alt="saurabhlo" /></a>
 
 </p>
 
