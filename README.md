@@ -17,7 +17,7 @@
 
 <p align="center">
 
-  <a href="https://github.com/sanketkushare"><img src="https://komarev.com/ghpvc/?username=saurabhlo&label=Profile%20views&color=0e75b6&style=flat" alt="saurabhlo" /></a>
+  <a href="https://github.com/sanketkushare"><img src="https://komarev.com/ghpvc/?username=sanketkushare&label=Profile%20views&color=0e75b6&style=flat" alt="sanketkushare" /></a>
 
 </p>
 
@@ -39,7 +39,7 @@
 
 - 🌱 I’m learning *Object-Oriented Programming* and *Database Management*  
 
-- 📫 Reach me: saurabhlokhande2010@gmail.com  
+- 📫 Reach me: kusharesanket36@gmail.com
 
 - 📍 Based in: Nashik, Maharashtra
 
@@ -99,7 +99,7 @@
 
 |--------|-------------|------|
 
-| [Airline Ticket Reservation](https://github.com/saurabhlo/airline-reservation) | A basic system to manage flight bookings. | Java, MySQL |
+| [Working on vegitable transport project](file:///D:/html/new%20project%202/index.html) | It'is a digital platform that facilitates the efficient and reliable movement of fresh vegetables from producers to consumers. | Java, MySQL ,html,css,javascript|
 
 | More Coming Soon... | DSA and Web projects in progress! | Java, HTML, CSS |
 
