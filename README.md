@@ -101,8 +101,6 @@
 
 | [Working on vegitable transport project](file:///D:/html/new%20project%202/index.html) | It'is a digital platform that facilitates the efficient and reliable movement of fresh vegetables from producers to consumers. | Java, MySQL ,html,css,javascript|
 
-| More Coming Soon... | DSA and Web projects in progress! | Java, HTML, CSS |
-
 
 
 ---
